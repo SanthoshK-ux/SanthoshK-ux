@@ -1,4 +1,4 @@
-<img src="assets/banner.png" width="100%" alt="Santhosh K - Data Analyst | Aspiring Data Scientist">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:1D4ED8&height=300&section=header&text=Santhosh%20K&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist&descSize=28&descAlignY=64" width="100%" alt="Santhosh K - Data Analyst | Aspiring Data Scientist">
 
 <div align="center">
 
@@ -289,3 +289,5 @@ A Python application that integrates a live weather API to provide real-time, lo
 <br>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:1E3A8A,100:0F172A&height=140&section=footer" width="100%" alt="footer">
